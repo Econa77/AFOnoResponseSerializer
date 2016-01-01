@@ -1,7 +1,7 @@
 AFOnoResponseSerializer
 =======================
 
-`AFOnoResponseSerializer` is an XML and HTML response serializer for AFNetworking 2.0, using [Ono](https://github.com/mattt/ono).
+`AFOnoResponseSerializer` is an XML and HTML response serializer for AFNetworking 3.0, using [Ono](https://github.com/mattt/ono).
 
 ## Usage
 
